@@ -4,7 +4,7 @@ Welcome to the Rock Paper Scissor game project! This is a simple, interactive ga
 The Rock Paper Scissor game provides an engaging way for users to test their luck and see if they can beat the computer. The game interface is designed to be user-friendly and visually appealing, ensuring an enjoyable experience for players of all ages.
 
 # Live Demo
-Check out the live demo of the project: 
+Check out the live demo of the project: https://codelikeamachine.github.io/Day47of50-Rock-Paper-Scissor-Game-Website/
 
 # Join Me:
 
